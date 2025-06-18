@@ -1,0 +1,6 @@
+0 Help/Stubborn
+1 Stop
+2 More
+3 Please
+4 Blind/Lucky
+5 Teacher
